@@ -2,7 +2,7 @@ package main;
 
 import javax.swing.JOptionPane;
 
-public class main {
+public class mainApp {
 	public static void main(String[] args) {
 		Ej ej = new Ej();
 		int n1 = Integer.parseInt(JOptionPane.showInputDialog(
